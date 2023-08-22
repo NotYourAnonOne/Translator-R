@@ -44,5 +44,7 @@ Translated Text: Hola, ¿cómo estás?
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub. Your contributions are greatly appreciated!
 
 ## License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+© Copyright [2023] NotYourAnonOne
+
